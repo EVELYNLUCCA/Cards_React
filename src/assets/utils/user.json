@@ -1,0 +1,105 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Miguel",
+            "apellido": "Rodríguez"
+        },
+        {
+            "id": 2,
+            "nombre": "Ana",
+            "apellido": "García"
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos",
+            "apellido": "Pérez"
+        },
+        {
+            "id": 4,
+            "nombre": "Sofía",
+            "apellido": "López"
+        },
+        {
+            "id": 5,
+            "nombre": "Diego",
+            "apellido": "Fernández"
+        },
+        {
+            "id": 6,
+            "nombre": "Lucía",
+            "apellido": "González"
+        },
+        {
+            "id": 7,
+            "nombre": "Jorge",
+            "apellido": "Hernández"
+        },
+        {
+            "id": 8,
+            "nombre": "María",
+            "apellido": "Martínez"
+        },
+        {
+            "id": 9,
+            "nombre": "Pablo",
+            "apellido": "Sánchez"
+        },
+        {
+            "id": 10,
+            "nombre": "Isabella",
+            "apellido": "Torres"
+        },
+        {
+            "id": 11,
+            "nombre": "Alejandro",
+            "apellido": "Cruz"
+        },
+        {
+            "id": 12,
+            "nombre": "Paula",
+            "apellido": "Gómez"
+        },
+        {
+            "id": 13,
+            "nombre": "Mateo",
+            "apellido": "Díaz"
+        },
+        {
+            "id": 14,
+            "nombre": "Laura",
+            "apellido": "Castro"
+        },
+        {
+            "id": 15,
+            "nombre": "David",
+            "apellido": "Romero"
+        },
+        {
+            "id": 16,
+            "nombre": "Valentina",
+            "apellido": "Vega"
+        },
+        {
+            "id": 17,
+            "nombre": "José",
+            "apellido": "Álvarez"
+        },
+        {
+            "id": 18,
+            "nombre": "Mariana",
+            "apellido": "Ruiz"
+        },
+        {
+            "id": 19,
+            "nombre": "Juan",
+            "apellido": "Flores"
+        },
+        {
+            "id": 20,
+            "nombre": "Renata",
+            "apellido": "Morales"
+        }
+        ]
+    }
+    
